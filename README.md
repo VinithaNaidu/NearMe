@@ -127,7 +127,7 @@ Execute the programs and publish them.
 ![Untitled design (3)](https://github.com/VinithaNaidu/NearMe/assets/121166004/89d03ad4-0ec5-4f55-8fd8-1f880fc767f9)
 ![Untitled design (2)](https://github.com/VinithaNaidu/NearMe/assets/121166004/ed0bcb0f-c054-45f0-93ce-860bc0bb6846)
 ![Untitled design (1)](https://github.com/VinithaNaidu/NearMe/assets/121166004/d975e581-c81c-4373-9a4f-86ca850e8c74)
-![Untitled design](https://github.com/VinithaNaidu/NearMe/assets/121166004/4982b43a-8ee9-4856-9db7-65439758e5f6)
+
 
 
 
