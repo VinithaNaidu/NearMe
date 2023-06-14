@@ -128,7 +128,8 @@ Execute the programs and publish them.
 ![Untitled design (2)](https://github.com/VinithaNaidu/NearMe/assets/121166004/ed0bcb0f-c054-45f0-93ce-860bc0bb6846)
 ![Untitled design (1)](https://github.com/VinithaNaidu/NearMe/assets/121166004/d975e581-c81c-4373-9a4f-86ca850e8c74)
 ## HTML VALIDATOR
-![Untitled design](![Uploading image.png…]()
+![validator](![image](https://github.com/VinithaNaidu/NearMe/assets/121166004/3fc3cd46-ede8-4d70-b2d8-ecdb0ce43018)
+
 
 
 
